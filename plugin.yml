@@ -1,0 +1,11 @@
+name: StarPracticeCore
+author: Taco
+description: "wow this good yes yes yes"
+version: 1.0
+website: "github.com/twrrr"
+api: "3.0.0"
+main: Taco\GPvp\Loader
+
+commands:
+  temp:
+    description: unnuse

@@ -1,0 +1,16 @@
+Ranks Hiearchy:
+ - Owner
+ - Admin
+ - Moderator
+ - Builder
+ - Helper
+ - Trainee
+Paid Ranks Hiearchy:
+ - Star - $20
+ - Nebula - $10
+ - Supernova - $5
+
+TODO:
+ - Commands
+ - Staff Moderator
+ - Build Maps

@@ -1,0 +1,12 @@
+#Basic
+name-of-server: "§l§dPLAY.STARMC.XYZ"
+
+#Anticheat
+
+#Amount Of Cps To Alert Staff
+alert-staff-cps: 20
+#Ban Player At This CPS
+ban-cps: 30
+#Max Reach A Player Can Get Before Ban
+ban-reach: 9
+#Messages
